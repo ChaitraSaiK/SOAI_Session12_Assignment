@@ -43,7 +43,8 @@ The GPT-Shakespeare model is live and accessible on Hugging Face Spaces.
 
 Accessing the Model : Visit the following link to interact with the model: https://huggingface.co/spaces/ChaitraSaiK/Talk-To-Me-AI
 
-![image](https://github.com/user-attachments/assets/78855059-47d7-4c5d-8525-48a1df3bfc9d)
+![image](https://github.com/user-attachments/assets/ee9e8709-3f81-4511-a178-8a0568b54efa)
+
 
 
 
